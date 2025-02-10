@@ -22,7 +22,7 @@ A curated list of publicly available datasets and resources for diabetes and pan
     - **PanKgraph**: Knowledge graph linking genes, SNPs, and eQTLs using LLMs.
     - **Integrated Cell Browser**: Interactive single-cell data visualization (cell clusters, gene expression)
   - **Access Requirements**: open.
-  - **Link**: [PanKbase]([https://www.pancreasexpression.org/](https://pankgraph.org/))  
+  - **Link**: [PanKbase](https://pankbase.org/)
 
 ---
 
