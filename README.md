@@ -4,17 +4,16 @@
 
 A curated list of publicly available datasets and resources for diabetes and pancreas research.  
 
-## 🩺 Clinical & Epidemiological Databases
-
-### Diabetes-Specific
 - **NIDDK Central Repository**  
   - **Focus**: Clinical trials (e.g., Diabetes Control and Complications Trial).  
   - **Data Types**: Demographics, HbA1c, glucose levels.  
   - **Access**: Controlled.  
   - **Link**: [repository.niddk.nih.gov](https://repository.niddk.nih.gov/)
 
-
-## 🧬 Genomic & Molecular Databases
+- **nPOD**  
+  - **Focus**: Type 1 diabetes.  
+  - **Data Types**: Imaging: High-resolution electron microscopy (EM) images of pancreatic tissues.  
+  - **Link**: [nPOD](https://npod.org/)  
 
 - **PanKbase**  
   - **Focus**: Centralized hub for human pancreas and type 1 diabetes (T1D) research.  
@@ -25,14 +24,10 @@ A curated list of publicly available datasets and resources for diabetes and pan
   - **Access Requirements**: open.
   - **Link**: [PanKbase](https://pankbase.org/)
 
-
-## 🤖 Machine Learning-Ready Datasets
 - **Kaggle Diabetes Health Indicators**  
   - **Data Types**: Lifestyle factors, lab results.  
   - **Link**: [Kaggle Dataset](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)  
 
-
-## ⚕️ Pancreas-Specific Resources
 - **Human Pancreas Analysis Program (HPAP)**  
   - **Focus**: Molecular mechanisms of diabetes.  
   - **Data Types**: Single-cell RNA-seq, histology.  
@@ -43,8 +38,17 @@ A curated list of publicly available datasets and resources for diabetes and pan
   - **Data Types**: Imaging, developmental biology.  
   - **Link**: [Pancreatlas](https://www.pancreatlas.org/)  
 
+- **Type 1 Diabetes Knowledge Portal**  
+  - **Focus**: type 1 diabetes.  
+  - **Data Types**: phenotypes and genetic dataset.
+  - **Link**: [Type 1 Diabetes Knowledge Portal](https://t1d.hugeamp.org/)  
 
-## Organizational guide 🧵
+- **Type 2 Diabetes Knowledge Portal**  
+  - **Focus**: type 2 diabetes.  
+  - **Data Types**: phenotypes and genetic dataset.
+  - **Link**: [Type 2 Diabetes Knowledge Portal](https://t2d.hugeamp.org/)  
+
+### Organizational guide 🧵
 Track these fields for each dataset:
 - **Database Name**  
 - **URL**  
