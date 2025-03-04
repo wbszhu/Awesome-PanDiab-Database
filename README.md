@@ -1,8 +1,10 @@
-# Awesome-PanDiab-Database  
-A curated list of publicly available datasets and resources for diabetes and pancreas research.  
----
+# Awesome-Pancreas-Diabetes-Databases 💾
 
-## 1. Clinical & Epidemiological Databases
+ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated list of publicly available datasets and resources for diabetes and pancreas research.  
+
+## 🩺 Clinical & Epidemiological Databases
 
 ### Diabetes-Specific
 - **NIDDK Central Repository**  
@@ -11,9 +13,8 @@ A curated list of publicly available datasets and resources for diabetes and pan
   - **Access**: Controlled.  
   - **Link**: [repository.niddk.nih.gov](https://repository.niddk.nih.gov/)
 
----
 
-## 2. Genomic & Molecular Databases
+## 🧬 Genomic & Molecular Databases
 
 - **PanKbase**  
   - **Focus**: Centralized hub for human pancreas and type 1 diabetes (T1D) research.  
@@ -24,16 +25,14 @@ A curated list of publicly available datasets and resources for diabetes and pan
   - **Access Requirements**: open.
   - **Link**: [PanKbase](https://pankbase.org/)
 
----
 
-## 3. Machine Learning-Ready Datasets
+## 🤖 Machine Learning-Ready Datasets
 - **Kaggle Diabetes Health Indicators**  
   - **Data Types**: Lifestyle factors, lab results.  
   - **Link**: [Kaggle Dataset](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)  
 
----
 
-## 4. Pancreas-Specific Resources
+## ⚕️ Pancreas-Specific Resources
 - **Human Pancreas Analysis Program (HPAP)**  
   - **Focus**: Molecular mechanisms of diabetes.  
   - **Data Types**: Single-cell RNA-seq, histology.  
@@ -44,9 +43,8 @@ A curated list of publicly available datasets and resources for diabetes and pan
   - **Data Types**: Imaging, developmental biology.  
   - **Link**: [Pancreatlas](https://www.pancreatlas.org/)  
 
----
 
-## Organizational Checklist
+## Organizational guide 🧵
 Track these fields for each dataset:
 - **Database Name**  
 - **URL**  
